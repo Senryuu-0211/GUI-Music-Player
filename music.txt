@@ -1,0 +1,45 @@
+4
+ZUN
+TOUHOU 6: The Embodiment of Scarlet Devil 
+album_image/album1.jpg
+6
+Crimson Tower - Eastern Dream...
+music/Crimson Tower ~ Eastern Dream....mp3
+U.N. Owen was Her?
+music/U.N. Owen was Her.mp3
+Septette for the Dead Princess
+music/Septette for the Dead Princess.mp3
+Night of Knights
+music/01. Night of Knights.mp3
+Doll Judgement
+music/07. Doll Judgement ~ The Girl Who Played with People's Shapes.mp3
+Border of Life 
+music/13. Bloom Nobly, Ink-Black Cherry Blossom ~ Border of Life.mp3
+Bon Jovi
+Slippery When Wet
+album_image/album2.jpg
+2
+You Give Love a Bad Name
+music/02 You Give Love A Bad Name.mp3
+Living on a Prayer
+music/01 Livin' On A Prayer.mp3
+DDBY
+Cafe de Touhou 
+album_image/album3 (1).jpg
+3
+Faraway Country
+music/2-faraway-country.mp3
+Scarlet Tea Party
+music/7-Scarlet-Tea-Party.mp3
+Skyscraper of Horizon
+music/6-Skyscraper-of-Horizon.mp3
+Adele
+21
+album_image/album4.png
+3
+Someone Like You
+music/11 Someone Like You.mp3
+One And Only
+music/09 One And Only.mp3
+Rolling in the Deep
+music/01 Rolling In The Deep.mp3
